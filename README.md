@@ -5,7 +5,7 @@
 
 `#ff0000(Your hate has made you powerfull)`
 
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+$\color[RGB]{155,127,0} hello$
 
 
 <!--
