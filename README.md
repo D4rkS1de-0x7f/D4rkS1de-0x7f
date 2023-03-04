@@ -5,13 +5,11 @@
 </p>
 -->
 
+<m align="center">
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- Your hate has made you powerful.
 ```
+</m>
 
 <!--
 $${\color{red}Your \space hate \space has \space made \space you \space powerful.}$$
