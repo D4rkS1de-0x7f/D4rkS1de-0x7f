@@ -6,6 +6,7 @@
 
 $\color{155,127,0} hello$
 
+[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
 
 <!--
 $${\color{red}Your \space hate \space has \space made \space you \space powerful.}$$
