@@ -4,6 +4,7 @@
 </p>
 
 - ![#ff0000] (Your hate has made you powerfull) `#ff0000`
+<span style="color:orange;">Word up</span>
 
 <!--
 $${\color{red}Your \space hate \space has \space made \space you \space powerful.}$$
