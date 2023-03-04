@@ -1,13 +1,8 @@
 # D4rkS1de
-<!--
 <p align="center">
   <img src="https://github.com/D4rkS1de-0x7f/D4rkS1de-0x7f/blob/main/Files/DarkSide_v1.gif" alt="animated"/>
 </p>
--->
 
-```diff
-- Your hate has made you powerful.
-```
 
 <!--
 $${\color{red}Your \space hate \space has \space made \space you \space powerful.}$$
