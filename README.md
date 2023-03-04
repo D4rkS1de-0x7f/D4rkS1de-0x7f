@@ -5,13 +5,7 @@
 </p>
 -->
 
-
-
-$\color{green}{test}$
-
-
-
-
+## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
 
 <!--
 $${\color{red}Your \space hate \space has \space made \space you \space powerful.}$$
