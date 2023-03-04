@@ -3,7 +3,6 @@
   <img src="https://github.com/D4rkS1de-0x7f/D4rkS1de-0x7f/blob/main/Files/DarkSide_v1.gif" alt="animated"/>
 </p>
 
-`#ff0000(Your hate has made you powerfull)`
 
 $\color{155,127,0} hello$
 
