@@ -5,7 +5,7 @@
 
 `#ff0000(Your hate has made you powerfull)`
 
-$\color[RGB]{155,127,0} hello$
+$\color{155,127,0} hello$
 
 
 <!--
