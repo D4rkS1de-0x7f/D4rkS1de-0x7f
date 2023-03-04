@@ -5,11 +5,9 @@
 </p>
 -->
 
-<m align="center">
 ```diff
 - Your hate has made you powerful.
 ```
-</m>
 
 <!--
 $${\color{red}Your \space hate \space has \space made \space you \space powerful.}$$
