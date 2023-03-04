@@ -3,7 +3,7 @@
   <img src="https://github.com/D4rkS1de-0x7f/D4rkS1de-0x7f/blob/main/Files/DarkSide_v1.gif" alt="animated"/>
 </p>
 
-<h1 style="color:red;"> Your hate has made you powerfull </h1>
+<h1 style="color:red;">Your hate has made you powerfull</h1>
 
 <!--
 $${\color{red}Your \space hate \space has \space made \space you \space powerful.}$$
